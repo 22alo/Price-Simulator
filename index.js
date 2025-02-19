@@ -15,6 +15,8 @@ function logStockPrice(symbol, price) {
     });
 }
 
+
+
 // Simulated stock symbols
 const stocks = ['AAPL', 'GOOGL', 'AMZN', 'TSLA', 'MSFT'];
 
